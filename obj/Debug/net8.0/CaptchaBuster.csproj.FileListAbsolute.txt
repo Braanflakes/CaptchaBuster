@@ -1,0 +1,12 @@
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\bin\Debug\net8.0\CaptchaBuster.deps.json
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\bin\Debug\net8.0\CaptchaBuster.dll
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\bin\Debug\net8.0\CaptchaBuster.pdb
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\CaptchaBuster.csproj.AssemblyReference.cache
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\CaptchaBuster.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\CaptchaBuster.AssemblyInfoInputs.cache
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\CaptchaBuster.AssemblyInfo.cs
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\CaptchaBuster.csproj.CoreCompileInputs.cache
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\CaptchaBuster.dll
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\refint\CaptchaBuster.dll
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\CaptchaBuster.pdb
+D:\Development\CaptchaBuster\CaptchaBuster\CaptchaBuster\obj\Debug\net8.0\ref\CaptchaBuster.dll

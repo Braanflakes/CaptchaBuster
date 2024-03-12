@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eauayPM/0Jf2Skmwy4eORlEdjxaMcyICcGYqRCaSwuBaJmhBrM0pVhha7uUok5puDUy4UYnTMISStNgZRZGZ+A==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\CaptchaBuster\\CaptchaBuster\\CaptchaBuster\\CaptchaBuster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\braan\\.nuget\\packages\\magick.net-q16-anycpu\\13.6.0\\magick.net-q16-anycpu.13.6.0.nupkg.sha512",
+    "C:\\Users\\braan\\.nuget\\packages\\magick.net.core\\13.6.0\\magick.net.core.13.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
